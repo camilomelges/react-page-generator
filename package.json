@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "prettier": "^2.6.2"
+  },
+  "scripts": {
+    "generate": "node ./src/index.js"
+  }
+}
